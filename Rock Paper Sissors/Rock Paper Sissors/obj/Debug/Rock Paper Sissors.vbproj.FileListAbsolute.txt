@@ -1,0 +1,11 @@
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Rock Paper Sissors\Rock Paper Sissors\bin\Debug\Rock Paper Sissors.exe.config
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Rock Paper Sissors\Rock Paper Sissors\bin\Debug\Rock Paper Sissors.exe
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Rock Paper Sissors\Rock Paper Sissors\bin\Debug\Rock Paper Sissors.pdb
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Rock Paper Sissors\Rock Paper Sissors\bin\Debug\Rock Paper Sissors.xml
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\Rock Paper Sissors.vbprojResolveAssemblyReference.cache
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\Rock_Paper_Sissors.Form1.resources
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\Rock_Paper_Sissors.Resources.resources
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\Rock Paper Sissors.vbproj.GenerateResource.Cache
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\Rock Paper Sissors.exe
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\Rock Paper Sissors.xml
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\Rock Paper Sissors.pdb
